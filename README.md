@@ -1,3 +1,14 @@
+# github_spec_kit
+
+> **Project Constitution**: This project is governed by the principles in `.specify/memory/constitution.md` (v2.0.0):
+> - Clean code (clarity, readability, minimalism)
+> - Simple user experience (intuitive, minimal UX)
+> - Responsive design (all device breakpoints)
+> - Minimal dependencies (locked stack: Next.js 16.0.3, React 19.2.0, React-DOM 19.2.0, TailwindCSS 4.x, @tailwindcss/postcss 4.x)
+> - **NO automated testing is permitted** (no unit/integration/e2e tests, no test-related code, dependencies, files, or pipelines under any circumstances)
+>
+> All code review and acceptance processes are exclusively manual. PRs introducing testing-related code must be blocked and reverted immediately.
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
